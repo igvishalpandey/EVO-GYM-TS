@@ -8,7 +8,7 @@ EVO GYM Project is a web-based platform designed to provide gym-goers with an in
 
 ## Preview 📸
 
-![Link for Preview]
+Click here for preview: 
 
 ## Technologies 💻
 
